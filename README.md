@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/chrysanthemum-boy/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysanthemum-boy&show_icons=true&bg_color=70DEG,red,yellow" />
+</a>
+<a href="https://github.com/chrysanthemum-boy/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysanthemum-boy&layout=compact&hide=jupyter notebook&card_width=400" />
+</a>
