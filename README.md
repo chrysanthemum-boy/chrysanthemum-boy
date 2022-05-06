@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 📈 my github stats  
 <p align="center"> 
 <a href="https://github.com/chrysanthemum-boy/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysanthemum-boy&show_icons=true&bg_color=70DEG,red,yellow" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysanthemum-boy&show_icons=true&bg_color=70DEG,red,yellow" style="width: 58%; max-width: 58%; min-width: 58%;"/>
 </a>
 <a href="https://github.com/chrysanthemum-boy/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysanthemum-boy&layout=compact&hide=jupyter notebook&card_width=250" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysanthemum-boy&layout=compact&hide=jupyter notebook&card_width=250" style="width: 40%; max-width: 40%; min-width: 40%;"/>
 </a>
