@@ -20,5 +20,5 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chrysanthemum-boy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 58%; max-width: 58%; min-width: 58%;"/>
 </a>
 <a href="https://github.com/chrysanthemum-boy/">
- <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chrysanthemum-boy&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&hide=jupyter_notebook&card_width=250" style="width: 40%; "/>
+ <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chrysanthemum-boy&hide=Jupyter%20Notebook&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&card_width=250" style="width: 40%; "/>
 </a>
